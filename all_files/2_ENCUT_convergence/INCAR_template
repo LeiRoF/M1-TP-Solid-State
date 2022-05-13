@@ -1,0 +1,15 @@
+SYSTEM = Silicon
+
+PREC = Normal
+ISTART = 0
+ICHARG = 2
+
+ENCUT = MY_ENCUT eV
+ALGO = Normal
+NELMIN = 4
+NELM = 100
+EDIFF = 1e-6
+LREAL = .FALSE.
+
+ISMEAR = 0
+SIGMA = 0.1

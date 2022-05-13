@@ -1,0 +1,16 @@
+SYSTEM = Diamond
+
+PREC = Normal
+IBRION = 2
+ISIF = 3
+NSW = 20
+EDIFFG = -1e-5
+
+ENCUT = 500.0 eV
+ALGO = Normal
+NELMIN = 4
+NELM = 100
+EDIFF = 1e-6
+
+ISMEAR = 0
+SIGMA = 0.1
